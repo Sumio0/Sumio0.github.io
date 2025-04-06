@@ -1,64 +1,68 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: 
+  - /resume/
 ---
 
-{% include base_path %}
+**Fan Yi**  
+New York, NY  
+📧 yifansumio@gmail.com | ☎ (650) 392-5466  
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### 🎓 Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+**Columbia University**, School of General Studies — *BA in Computer Science (Applications & AI Track)*  
+_Expected Fall 2026_  
+Relevant Coursework: User Interface Design, Data Structures & Algorithms, Computer Systems
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Stanford University**, Continuing Studies  
+*Marketing Today: Multi-Channel Marketing & Communications*  
+_Winter 2019–2020_ — *Top 1% Performance*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+### 💼 Experience
+
+**Tencent Holdings Ltd.** — *Course Consultant*  
+_Wuhan, China | Mar–Sep 2019_  
+- Designed AI-based recommendation system → +22% user conversion  
+- Created persona/user journey frameworks integrated into CRM  
+- Coordinated cross-teams (product, teaching, tech) to iterate & launch 3 courses
+
+**Alibaba Group** — *B2B Platform Operations Intern*  
+_Hangzhou, China | Sep–Dec 2018_  
+- Managed 300+ SKUs and improved click-through via A/B testing  
+- Localized content in EN/ES/RU across 20+ markets  
+- Developed standardized upload templates → +40% efficiency
+
+**Independent E-commerce Venture** — *Founder*  
+_Remote | Sep 2017–Sep 2019_  
+- Scaled product sales via social channels (Weibo, Rednote)  
+- Integrated bonded warehouse logistics → 7-day delivery  
+- Reached $5K+/mo revenue with 25% avg profit
+
+---
+
+### 🧠 Technical Projects
+
+**Global Text Replacement Engine (Java)**  
+- BSTreeMap & RBTreeMap optimized text lookup  
+- Directed graph cycle detection  
+- 560K-word corpus handled in sub-second time  
+
+---
+
+### 📚 Skills & Languages
+
+**Languages**: Chinese (Native), English (Fluent)  
+**Coding**: HTML/CSS, JavaScript, React, SQL, Java, Python, C++  
+**Tools**: Git, Jira, Node.js, Figma, Coursera Meta Front-End Cert.
+
+---
+
+### 🏆 Awards
+
+- Columbia University General Studies Scholarship (2023–Present)
